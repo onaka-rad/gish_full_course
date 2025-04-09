@@ -1,1 +1,1 @@
-console.log("zgmf-x42s");
+console.log("zgmf-x42s：ディスティニー");
