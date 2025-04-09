@@ -1,1 +1,1 @@
-console.log("zgmf-x42s：ディスティニー");
+console.log("zgmf-x42s:シン・アスカ");
