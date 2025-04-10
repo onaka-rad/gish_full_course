@@ -1,1 +1,5 @@
-console.log("zgmf-x42s:シン・アスカ");
+function destiny(){
+    console.log("zgmf-x42s");
+}
+
+destiny();
